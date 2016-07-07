@@ -13,7 +13,6 @@
 		04387F971D2E4F7900558B51 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04387F951D2E4F7900558B51 /* Main.storyboard */; };
 		04387F991D2E4F7900558B51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04387F981D2E4F7900558B51 /* Assets.xcassets */; };
 		04387F9C1D2E4F7900558B51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04387F9A1D2E4F7900558B51 /* LaunchScreen.storyboard */; };
-		04387FA51D2E5B5500558B51 /* test1.m in Sources */ = {isa = PBXBuildFile; fileRef = 04387FA41D2E5B5500558B51 /* test1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +26,6 @@
 		04387F981D2E4F7900558B51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04387F9B1D2E4F7900558B51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04387F9D1D2E4F7900558B51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		04387FA31D2E5B5500558B51 /* test1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test1.h; sourceTree = "<group>"; };
-		04387FA41D2E5B5500558B51 /* test1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +62,6 @@
 				04387F901D2E4F7900558B51 /* AppDelegate.m */,
 				04387F921D2E4F7900558B51 /* ViewController.h */,
 				04387F931D2E4F7900558B51 /* ViewController.m */,
-				04387FA31D2E5B5500558B51 /* test1.h */,
-				04387FA41D2E5B5500558B51 /* test1.m */,
 				04387F951D2E4F7900558B51 /* Main.storyboard */,
 				04387F981D2E4F7900558B51 /* Assets.xcassets */,
 				04387F9A1D2E4F7900558B51 /* LaunchScreen.storyboard */,
@@ -158,7 +153,6 @@
 				04387F941D2E4F7900558B51 /* ViewController.m in Sources */,
 				04387F911D2E4F7900558B51 /* AppDelegate.m in Sources */,
 				04387F8E1D2E4F7900558B51 /* main.m in Sources */,
-				04387FA51D2E5B5500558B51 /* test1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
